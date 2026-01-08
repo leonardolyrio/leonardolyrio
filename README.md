@@ -46,13 +46,6 @@
 
 ---
 
-### 🧠 Objetivo
-- Construir aplicações web **robustas e escaláveis**
-- Criar interfaces que unem **design + performance**
-- Evoluir para **Full Stack Developer**
-
----
-
 ### 📫 Contato
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lhziin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardolyrio123@gmail.com)
