@@ -5,7 +5,7 @@
 
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Leonardo+Lyrio;Frontend+Developer" alt="Typing SVG"/>
 </div>
 
 <br/>
