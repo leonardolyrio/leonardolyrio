@@ -33,7 +33,7 @@
 
 > *"Design is not just what it looks like and feels like. Design is how it works."*
 
-Atualmente, estou aprofundando meus estudos em **Análise e Desenvolvimento de Sistemas**, focando em **JavaScript** e **Tailwind CSS** para criar interfaces de alta performance. Aplico esse conhecimento em projetos reais — desde sistemas web responsivos até portfólios otimizados.
+Atualmente, estou focando meus estudos em **JavaScript** e **React** para criar interfaces de alta performance. Aplico esse conhecimento em projetos reais — desde sistemas web responsivos até portfólios otimizados.
 
 Possuo experiência com **HTML**, **CSS**, **JavaScript** e **Tailwind CSS**, utilizando o **Git** para versionamento.
 
