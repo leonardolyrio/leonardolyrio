@@ -94,6 +94,6 @@ Possuo experiência com **HTML**, **CSS**, **JavaScript** e **Tailwind CSS**, ut
 
 <div align="center">
 
-*A constante busca pela melhor interface.*
+*Power is power.*
 
 </div>
