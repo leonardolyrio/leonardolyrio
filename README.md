@@ -25,7 +25,7 @@ Atualmente estou focado em aprofundar meus conhecimentos em JavaScript e React, 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vscode,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode,git,github,linux)](https://skillicons.dev)
 
 </div>
 
