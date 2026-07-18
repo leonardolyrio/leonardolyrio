@@ -1,0 +1,36 @@
+name: Update Profile SVGs
+on:
+  schedule:
+    - cron: '0 0 * * *' # Define o gatilho para rodar todos os dias à meia-noite (UTC)
+  workflow_dispatch: # Permite que você rode o script manualmente clicando em um botão na aba Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permite que o robô faça o 'git push'
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dateutil
+
+      - name: Run update script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python update.py
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg
+          git commit -m "feat: atualiza métricas diárias" || exit 0
+          git push
