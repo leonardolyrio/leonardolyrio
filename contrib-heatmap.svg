@@ -218,7 +218,7 @@
   <rect class="box level-0" x="416" y="80" width="10" height="10" style="animation-delay: 0.68s" />
   <rect class="box level-0" x="416" y="94" width="10" height="10" style="animation-delay: 0.70s" />
   <rect class="box level-2" x="430" y="10" width="10" height="10" style="animation-delay: 0.60s" />
-  <rect class="box level-1" x="430" y="24" width="10" height="10" style="animation-delay: 0.62s" />
+  <rect class="box level-2" x="430" y="24" width="10" height="10" style="animation-delay: 0.62s" />
   <rect class="box level-0" x="430" y="38" width="10" height="10" style="animation-delay: 0.64s" />
   <rect class="box level-0" x="430" y="52" width="10" height="10" style="animation-delay: 0.66s" />
   <rect class="box level-0" x="430" y="66" width="10" height="10" style="animation-delay: 0.68s" />
