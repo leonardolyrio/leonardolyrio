@@ -45,7 +45,7 @@
   <g class="tile" style="animation-delay: 0.24s">
     <rect class="panel" x="12" y="98" width="181" height="62" rx="6" />
     <text class="label" x="22" y="114">$ contributions</text>
-    <text class="value" x="22" y="139">161</text>
+    <text class="value" x="22" y="139">162</text>
     <text class="sub" x="22" y="154">in the last year</text>
   </g>
   <g class="tile" style="animation-delay: 0.36s">
@@ -95,6 +95,6 @@
   <text class="month" x="309.5" y="346" text-anchor="middle">A</text>
   <rect class="bar" x="328.4" y="298" width="17" height="36" rx="2" style="animation-delay: 1.45s" />
   <text class="month" x="336.9" y="346" text-anchor="middle">S</text>
-  <rect class="bar" x="355.8" y="322" width="17" height="12" rx="2" style="animation-delay: 1.50s" />
+  <rect class="bar" x="355.8" y="321" width="17" height="13" rx="2" style="animation-delay: 1.50s" />
   <text class="month" x="364.3" y="346" text-anchor="middle">O</text>
 </svg>

@@ -200,6 +200,6 @@
   <rect class="box level-0" x="407" y="22" width="12" height="12" style="animation-delay: 3.09s" />
   <rect class="box on level-1" x="407" y="37" width="12" height="12" style="animation-delay: 3.16s" />
   <rect class="box level-0" x="407" y="52" width="12" height="12" style="animation-delay: 3.23s" />
-  <rect class="box on level-2" x="407" y="67" width="12" height="12" style="animation-delay: 3.30s" />
-  <text class="cap" x="32" y="145">152 contributions in the last 26 weeks</text>
+  <rect class="box on level-3" x="407" y="67" width="12" height="12" style="animation-delay: 3.30s" />
+  <text class="cap" x="32" y="145">153 contributions in the last 26 weeks</text>
 </svg>
