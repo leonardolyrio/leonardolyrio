@@ -393,4 +393,5 @@
   <rect class="box level-1" x="760" y="36" width="10" height="10" style="animation-delay: 2.65s" />
   <rect class="box level-0" x="760" y="50" width="10" height="10" style="animation-delay: 2.70s" />
   <rect class="box level-2" x="760" y="64" width="10" height="10" style="animation-delay: 2.75s" />
+  <text class="cap" x="32" y="138">161 contributions in the last year</text>
 </svg>

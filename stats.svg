@@ -45,7 +45,7 @@
   <g class="tile" style="animation-delay: 0.24s">
     <rect class="panel" x="12" y="98" width="181" height="62" rx="6" />
     <text class="label" x="22" y="114">$ contributions</text>
-    <text class="value" x="22" y="139">—</text>
+    <text class="value" x="22" y="139">161</text>
     <text class="sub" x="22" y="154">in the last year</text>
   </g>
   <g class="tile" style="animation-delay: 0.36s">
@@ -57,18 +57,44 @@
   <g class="tile" style="animation-delay: 0.48s">
     <rect class="panel" x="12" y="166" width="181" height="62" rx="6" />
     <text class="label" x="22" y="182">$ best day</text>
-    <text class="value" x="22" y="207">—</text>
-    <text class="sub" x="22" y="222">—</text>
+    <text class="value" x="22" y="207">22</text>
+    <text class="sub" x="22" y="222">Aug 30</text>
   </g>
   <g class="tile" style="animation-delay: 0.60s">
     <rect class="panel" x="207" y="166" width="181" height="62" rx="6" />
     <text class="label" x="217" y="182">$ avg / active day</text>
-    <text class="value" x="217" y="207">—</text>
+    <text class="value" x="217" y="207">3.4</text>
     <text class="sub" x="217" y="222">contributions</text>
   </g>
   <g class="tile" style="animation-delay: 0.72s">
     <rect class="panel" x="12" y="234" width="376" height="118" rx="6" />
     <text class="label" x="22" y="250">$ contributions / month</text>
   </g>
-  <text class="sub" x="200" y="304" text-anchor="middle">waiting for the first workflow run…</text>
+  <rect class="bar" x="27.2" y="333" width="17" height="1" rx="2" style="animation-delay: 0.90s" />
+  <text class="month" x="35.7" y="346" text-anchor="middle">O</text>
+  <rect class="bar" x="54.6" y="333" width="17" height="1" rx="2" style="animation-delay: 0.95s" />
+  <text class="month" x="63.1" y="346" text-anchor="middle">N</text>
+  <rect class="bar" x="82.0" y="333" width="17" height="1" rx="2" style="animation-delay: 1.00s" />
+  <text class="month" x="90.5" y="346" text-anchor="middle">D</text>
+  <rect class="bar" x="109.3" y="331" width="17" height="3" rx="2" style="animation-delay: 1.05s" />
+  <text class="month" x="117.8" y="346" text-anchor="middle">J</text>
+  <rect class="bar" x="136.7" y="333" width="17" height="1" rx="2" style="animation-delay: 1.10s" />
+  <text class="month" x="145.2" y="346" text-anchor="middle">F</text>
+  <rect class="bar" x="164.1" y="332" width="17" height="2" rx="2" style="animation-delay: 1.15s" />
+  <text class="month" x="172.6" y="346" text-anchor="middle">M</text>
+  <rect class="bar" x="191.5" y="331" width="17" height="3" rx="2" style="animation-delay: 1.20s" />
+  <text class="month" x="200.0" y="346" text-anchor="middle">A</text>
+  <rect class="bar" x="218.9" y="331" width="17" height="3" rx="2" style="animation-delay: 1.25s" />
+  <text class="month" x="227.4" y="346" text-anchor="middle">M</text>
+  <rect class="bar" x="246.3" y="322" width="17" height="12" rx="2" style="animation-delay: 1.30s" />
+  <text class="month" x="254.8" y="346" text-anchor="middle">J</text>
+  <rect class="bar" x="273.7" y="327" width="17" height="7" rx="2" style="animation-delay: 1.35s" />
+  <text class="month" x="282.2" y="346" text-anchor="middle">J</text>
+  <rect class="bar hi" x="301.0" y="272" width="17" height="62" rx="2" style="animation-delay: 1.40s" />
+  <text class="peak" x="309.5" y="268" text-anchor="middle">71</text>
+  <text class="month" x="309.5" y="346" text-anchor="middle">A</text>
+  <rect class="bar" x="328.4" y="298" width="17" height="36" rx="2" style="animation-delay: 1.45s" />
+  <text class="month" x="336.9" y="346" text-anchor="middle">S</text>
+  <rect class="bar" x="355.8" y="322" width="17" height="12" rx="2" style="animation-delay: 1.50s" />
+  <text class="month" x="364.3" y="346" text-anchor="middle">O</text>
 </svg>
