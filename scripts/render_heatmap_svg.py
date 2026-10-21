@@ -1,9 +1,12 @@
 import json
 from datetime import date
 
-# Ajuste aqui a velocidade da animacao (em segundos)
-DURATION = 1.0   # duracao da animacao de cada quadradinho
-STAGGER = 0.05   # atraso entre quadradinhos vizinhos (efeito de onda)
+# Animacao: os quadradinhos "brotam" (crescem com um pequeno pulo) numa onda da
+# esquerda para a direita, e os que tem atividade acendem num flash de brilho.
+# Ajuste aqui a velocidade (em segundos)
+REVEAL = 3.5        # tempo ate o ultimo quadradinho comecar a aparecer
+DURATION = 0.6      # duracao da animacao de cada quadradinho
+ROW_WEIGHT = 0.55   # quanto cada linha atrasa em relacao a uma coluna (efeito diagonal)
 
 # Versao desktop: ano inteiro
 DESKTOP = {"box": 10, "gap": 4, "weeks": None, "output": "contrib-heatmap.svg"}
@@ -48,8 +51,11 @@ def render_heatmap(weeks, box, gap, output, caption):
     svg = []
     svg.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="{width}" height="{height}">')
     svg.append('  <style>')
-    svg.append(f'    .box {{ opacity: 0; animation: fadeSlide {DURATION}s ease-out forwards; rx: 2; ry: 2; }}')
-    svg.append('    @keyframes fadeSlide { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }')
+    svg.append(f'    .box {{ rx: 2; ry: 2; transform-box: fill-box; transform-origin: center; opacity: 0; animation: pop {DURATION}s ease-out both; }}')
+    svg.append(f'    .box.on {{ animation: pop {DURATION}s ease-out both, flash {DURATION + 0.15:.2f}s ease-out both; }}')
+    svg.append('    @keyframes pop { 0% { opacity: 0; transform: scale(0.2); } 60% { opacity: 1; transform: scale(1.1); } 100% { opacity: 1; transform: scale(1); } }')
+    svg.append('    @keyframes flash { 0% { filter: brightness(2.2); } 45% { filter: brightness(2.2); } 100% { filter: brightness(1); } }')
+    svg.append('    @media (prefers-reduced-motion: reduce) { .box { opacity: 1 !important; animation: none !important; } }')
     svg.append('    .lbl { font: 10px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #57606a; }')
     svg.append('    .cap { font: 700 11px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }')
 
@@ -85,6 +91,7 @@ def render_heatmap(weeks, box, gap, output, caption):
         svg.append(f'  <text class="lbl" x="2" y="{y}">{name}</text>')
 
     # Quadradinhos
+    max_order = (len(weeks) - 1) + 6 * ROW_WEIGHT
     for w_idx, week in enumerate(weeks):
         x = LEFT + w_idx * pitch
         for d_idx, day in enumerate(week):
@@ -92,8 +99,9 @@ def render_heatmap(weeks, box, gap, output, caption):
                 continue
             y = TOP + d_idx * pitch
             level = min(day["level"], 4)
-            delay = (w_idx + d_idx) * STAGGER
-            svg.append(f'  <rect class="box level-{level}" x="{x}" y="{y}" width="{box}" height="{box}" style="animation-delay: {delay:.2f}s" />')
+            delay = (w_idx + d_idx * ROW_WEIGHT) / max_order * REVEAL
+            cls = "box on" if level > 0 else "box"
+            svg.append(f'  <rect class="{cls} level-{level}" x="{x}" y="{y}" width="{box}" height="{box}" style="animation-delay: {delay:.2f}s" />')
 
     if caption:
         svg.append(f'  <text class="cap" x="{LEFT}" y="{height - 8}">{caption}</text>')
