@@ -1,0 +1,339 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 660" width="720" height="660">
+  <style>
+    .bg { fill: #ffffff; }
+    .ascii { font-family: "Courier New", Courier, monospace; font-size: 12px; fill: #1f2328; white-space: pre; }
+  </style>
+  <rect class="bg" width="100%" height="100%" />
+  <defs>
+    <clipPath id="clip-0">
+      <rect x="0" y="0" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.00s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-1">
+      <rect x="0" y="12" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.05s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-2">
+      <rect x="0" y="24" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.11s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-3">
+      <rect x="0" y="36" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.16s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-4">
+      <rect x="0" y="48" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.22s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-5">
+      <rect x="0" y="60" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.27s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-6">
+      <rect x="0" y="72" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.33s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-7">
+      <rect x="0" y="84" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.38s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-8">
+      <rect x="0" y="96" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.44s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-9">
+      <rect x="0" y="108" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.49s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-10">
+      <rect x="0" y="120" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.55s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-11">
+      <rect x="0" y="132" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.60s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-12">
+      <rect x="0" y="144" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.65s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-13">
+      <rect x="0" y="156" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.71s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-14">
+      <rect x="0" y="168" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.76s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-15">
+      <rect x="0" y="180" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.82s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-16">
+      <rect x="0" y="192" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.87s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-17">
+      <rect x="0" y="204" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.93s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-18">
+      <rect x="0" y="216" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="0.98s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-19">
+      <rect x="0" y="228" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.04s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-20">
+      <rect x="0" y="240" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.09s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-21">
+      <rect x="0" y="252" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.15s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-22">
+      <rect x="0" y="264" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.20s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-23">
+      <rect x="0" y="276" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.25s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-24">
+      <rect x="0" y="288" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.31s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-25">
+      <rect x="0" y="300" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.36s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-26">
+      <rect x="0" y="312" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.42s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-27">
+      <rect x="0" y="324" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.47s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-28">
+      <rect x="0" y="336" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.53s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-29">
+      <rect x="0" y="348" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.58s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-30">
+      <rect x="0" y="360" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.64s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-31">
+      <rect x="0" y="372" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.69s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-32">
+      <rect x="0" y="384" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.75s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-33">
+      <rect x="0" y="396" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.80s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-34">
+      <rect x="0" y="408" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.85s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-35">
+      <rect x="0" y="420" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.91s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-36">
+      <rect x="0" y="432" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="1.96s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-37">
+      <rect x="0" y="444" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.02s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-38">
+      <rect x="0" y="456" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.07s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-39">
+      <rect x="0" y="468" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-40">
+      <rect x="0" y="480" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.18s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-41">
+      <rect x="0" y="492" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.24s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-42">
+      <rect x="0" y="504" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.29s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-43">
+      <rect x="0" y="516" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.35s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-44">
+      <rect x="0" y="528" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.40s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-45">
+      <rect x="0" y="540" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.45s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-46">
+      <rect x="0" y="552" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.51s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-47">
+      <rect x="0" y="564" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.56s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-48">
+      <rect x="0" y="576" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.62s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-49">
+      <rect x="0" y="588" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.67s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-50">
+      <rect x="0" y="600" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.73s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-51">
+      <rect x="0" y="612" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.78s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-52">
+      <rect x="0" y="624" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.84s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-53">
+      <rect x="0" y="636" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.89s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-54">
+      <rect x="0" y="648" width="0" height="12">
+        <animate attributeName="width" from="0" to="720" dur="0.05s" begin="2.95s" fill="freeze" />
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="0" y="10" class="ascii" clip-path="url(#clip-0)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-...............:%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="22" class="ascii" clip-path="url(#clip-1)">@@@@@@@@@@@@@@@@@@@@@@@@@@*.....................+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="34" class="ascii" clip-path="url(#clip-2)">@@@@@@@@@@@@@@@@@@@@@@@@#.........................%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="46" class="ascii" clip-path="url(#clip-3)">@@@@@@@@@@@@@@@@@@@@@@@+...........................*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="58" class="ascii" clip-path="url(#clip-4)">@@@@@@@@@@@@@@@@@@@@@@-.............................-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="70" class="ascii" clip-path="url(#clip-5)">@@@@@@@@@@@@@@@@@@@@@:...............................-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="82" class="ascii" clip-path="url(#clip-6)">@@@@@@@@@@@@@@@@@@@*..................................=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="94" class="ascii" clip-path="url(#clip-7)">@@@@@@@@@@@@@@@@@%:....................................-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="106" class="ascii" clip-path="url(#clip-8)">@@@@@@@@@@@@@@@@+..::...................................-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="118" class="ascii" clip-path="url(#clip-9)">@@@@@@@@@@@@@@@:.:--.....................................#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="130" class="ascii" clip-path="url(#clip-10)">@@@@@@@@@@@@@#..:=+:.....................................-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="142" class="ascii" clip-path="url(#clip-11)">@@@@@@@@@@@@+.:=+*-.::....................................@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="154" class="ascii" clip-path="url(#clip-12)">@@@@@@@@@@@=.-+%@+::::..................................::%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="166" class="ascii" clip-path="url(#clip-13)">@@@@@@@@@@=:=#@@%::::...................................=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="178" class="ascii" clip-path="url(#clip-14)">@@@@@@@@@-:-@@@@=:-::...::....................:........:%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="190" class="ascii" clip-path="url(#clip-15)">@@@@@@@@-.=@@@@%::-:....::.......:..............:....=#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text>
+  <text x="0" y="202" class="ascii" clip-path="url(#clip-16)">@@@@@@@*::@@@@@-:--:....--.......::.................%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="214" class="ascii" clip-path="url(#clip-17)">@@@@@@@%-:%@@@@::-:.....--:.......::...:............%@@@@@@%@@@@@@@@@@@@@@@@@@@@%#%@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="226" class="ascii" clip-path="url(#clip-18)">@@@@@@@@#-.=@@#::-......:=:.......:::...:.............+@@@@@@@@@@@@@@@@@%#+===*%@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="238" class="ascii" clip-path="url(#clip-19)">@@@@@@@@*@=-..---:.......=-........:::...:-:............:#@@@@%#*+++++****#%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="250" class="ascii" clip-path="url(#clip-20)">@@@@@@@@@#*@+-.....:.....:-:........::::...::--:.....:::::::::-=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="262" class="ascii" clip-path="url(#clip-21)">@@@@@@@@@@@*-+::::........::.........:-:-....:::::--++=---===+#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="274" class="ascii" clip-path="url(#clip-22)">@@@@@@@@@@@@@@#=-:.....................:-:::...:....:@@@@@%#====--==--+**#%%@@@@@@@@@@@@@@%%@@@@@@@@</text>
+  <text x="0" y="286" class="ascii" clip-path="url(#clip-23)">@@@@@@@@@@@@@@#++----::::.:..............:::::.......:@@@@@@@@@@%%#+=+=*@@@@@@@@@@%%%%%@@@@@@@@@@@@@</text>
+  <text x="0" y="298" class="ascii" clip-path="url(#clip-24)">@@@@@@@@@@@@@@#===::::::::::.:::::....................:%@@@@@@@@@@@@@@%*=:=%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="310" class="ascii" clip-path="url(#clip-25)">@@@@@@@@@@@@@%+-%+:....::.:....::::----====-::::::::::::::-=+*#@@@@@@@@@@@%*=-#@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="322" class="ascii" clip-path="url(#clip-26)">@@@@@@@@@@@@@#::@#-.....:.......::::-=::--=++**-=::---*=-=%@%%##*+====#@@@@@@@#%=+@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="334" class="ascii" clip-path="url(#clip-27)">@@@@@@@@@@@@@#:-@@+:.........:.......::+:.::::-**--.::-+%=-=@@@@@@@@@%#+=-=#@@@@@%%--#@@@@@@@@@@@@@@</text>
+  <text x="0" y="346" class="ascii" clip-path="url(#clip-28)">@@@@@@@@@@@@@#:*@@#=:...................-+:...::-%#:-.:=*@@--+@@@@@@@@@@@@#::-%@@@%#@=.:+@@@@%%@@@@@</text>
+  <text x="0" y="358" class="ascii" clip-path="url(#clip-29)">@@@@@@@@@@@@@%:+@*..:.....................-=...:::*@*.+:=#%@@+=*@@@@@@@@@@@@@=:-*%@#%@@=..=#@@@@+%@@</text>
+  <text x="0" y="370" class="ascii" clip-path="url(#clip-30)">@@@@@@@@@@@@%@:......:...........................::-%@::#=-*@@@++*@@@@@@@@@@@@@-:*-%*@@@@+..=*%@@@*@</text>
+  <text x="0" y="382" class="ascii" clip-path="url(#clip-31)">@@@@@@@@@@@@@=*.......-...........................:.:+@+.-@@==+@@++*@@@@@@@@@@@@*:+.=@@@@@@=..*#*@@#</text>
+  <text x="0" y="394" class="ascii" clip-path="url(#clip-32)">@@@@@@@@@%@@@+:-.:.....:..............................:#*:%#@@%+=+%**#@@@@@@@@@@@*==.=@@@@@@+:.-@%+@</text>
+  <text x="0" y="406" class="ascii" clip-path="url(#clip-33)">@@@@@@@@@@%**.....:..................................:..=+-@@@@@@%***##*@@@@@@@@@%*@..#@@@@@%+.:=@@*</text>
+  <text x="0" y="418" class="ascii" clip-path="url(#clip-34)">@@@@@@@@@@@@=.........................................+:::.@@@@@@@@@@%##==@@@%@@@%@@:=@@@@@@@*:.%@@@</text>
+  <text x="0" y="430" class="ascii" clip-path="url(#clip-35)">@@@@@@@@@@@@*..........................................%:..*@@@@@@@@@@@@%-:+@@%#@@@@#%@@@@@@@*..*@@@</text>
+  <text x="0" y="442" class="ascii" clip-path="url(#clip-36)">@@@@@@@@@@@@%..........................................=%..+@@@@@@@@@@@@@@@+-**+--==-:-----=*=..*@@@</text>
+  <text x="0" y="454" class="ascii" clip-path="url(#clip-37)">@@@@@@@@@@@@@-.........................................:@%..-@%%@@@@@@@@@@@@@-=*---=@#@@@@%*-..--:::</text>
+  <text x="0" y="466" class="ascii" clip-path="url(#clip-38)">@@@@@@@@@@@@@%..........................................=*-..=+::::-=#%@@@@@@@@--%@@+@@@%%+:.=@@@@%=</text>
+  <text x="0" y="478" class="ascii" clip-path="url(#clip-39)">@@@@@@@@@@@@@@%.........................................:#-...#*=*%@@@@@@@@@@@@@@-:=*###*+=#@@@@@@@@</text>
+  <text x="0" y="490" class="ascii" clip-path="url(#clip-40)">@@@@@@@@@@@@@@@*.........................................-@:..-%@@@@@@@@@@@@@@@@@@+::%==@@@%@@@@@@@@</text>
+  <text x="0" y="502" class="ascii" clip-path="url(#clip-41)">@@@@@@@@@@@@@@@@:.........................................+-.=@@@@@@@@@@@@@@@@@@@@@@:.%@@=#@@%@@@@@@</text>
+  <text x="0" y="514" class="ascii" clip-path="url(#clip-42)">@@@@@@@@@@@@@@@@*..........................................::%@@@@@@@@@@@@@@@@@@@@@@@-:@@@@*=@@%@@@@</text>
+  <text x="0" y="526" class="ascii" clip-path="url(#clip-43)">@@@@@@@@@@@@@@@@@:.........................................:%@@@@@@@@@@@@@@@@@@@@@@@@*-:@@@@@*+@@@@@</text>
+  <text x="0" y="538" class="ascii" clip-path="url(#clip-44)">@@@@@@@@@@@@@@@@@+........................................:+@@@@@@@@@@@@@@@@@@@@@@@@@#%@=@@@@@@=@@@@</text>
+  <text x="0" y="550" class="ascii" clip-path="url(#clip-45)">@@@@@@@@@@@@@@@@@@-...................................:::::.=#%@@@@@@@@@@@@@@@@@@@@@@@@@%+@@@@@@%@@@</text>
+  <text x="0" y="562" class="ascii" clip-path="url(#clip-46)">@@@@@@@@@@@@@@@@@@@.....................................:-:...=@%%@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@</text>
+  <text x="0" y="574" class="ascii" clip-path="url(#clip-47)">@@@@@@@@@@@@@@@@@@@%......................................-+=-..-@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@</text>
+  <text x="0" y="586" class="ascii" clip-path="url(#clip-48)">@@@@@@@@@@@@@@@@@@@@%.....................................@@%---.:=@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@</text>
+  <text x="0" y="598" class="ascii" clip-path="url(#clip-49)">@@@@@@@@@@@@@@@@@@@@@*....................................*@@@@%..::#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="610" class="ascii" clip-path="url(#clip-50)">@@@@@@@@@@@@@@@@@@@@@@-...................................:@@@@@@#-.:+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="622" class="ascii" clip-path="url(#clip-51)">@@@@@@@@@@@@@@@@@@@@@@@:...................................@@@@@@@@-::-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="634" class="ascii" clip-path="url(#clip-52)">@@@@@@@@@@@@@@@@@@@@@@%....................................=@@@@@@@@+::=@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="646" class="ascii" clip-path="url(#clip-53)">@@@@@@@@@@@@@@@@@@@@@@+.....................................@@@@@@@@@#=-=@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="658" class="ascii" clip-path="url(#clip-54)">@@@@@@@@@@@@@@@@@@@@@@:.....................................=@@@@@@@@@@=-*@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+</svg>

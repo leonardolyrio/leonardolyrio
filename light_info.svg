@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 500" width="490" height="500">
+  <style>
+    .bg { fill: #ffffff; }
+    .text { font-family: "Courier New", Courier, monospace; font-size: 14px; fill: #1f2328; white-space: pre; }
+    .line { opacity: 0; animation: fadeIn 0.4s forwards; }
+    @keyframes fadeIn { to { opacity: 1; transform: translateX(0); } from { opacity: 0; transform: translateX(-15px); } }
+  </style>
+  <rect class="bg" width="100%" height="100%" />
+  <text x="20" y="40" class="text line" style="animation-delay: 0.0s"><tspan fill="#0969da">leonardolyrio</tspan>@<tspan fill="#0969da">github</tspan></text>
+  <text x="20" y="62" class="text line" style="animation-delay: 0.15s">------------------------------------------------</text>
+  <text x="20" y="84" class="text line" style="animation-delay: 0.3s"><tspan fill="#0969da">Uptime:</tspan>     19 years</text>
+  <text x="20" y="106" class="text line" style="animation-delay: 0.44999999999999996s"><tspan fill="#0969da">Location:</tspan>   Espírito Santo, Brazil</text>
+  <text x="20" y="128" class="text line" style="animation-delay: 0.6s"><tspan fill="#0969da">Languages:</tspan>  HTML, CSS, JS, React</text>
+  <text x="20" y="150" class="text line" style="animation-delay: 0.75s"><tspan fill="#0969da">OS:</tspan>          Windows, Linux</text>
+  <text x="20" y="172" class="text line" style="animation-delay: 0.8999999999999999s"><tspan fill="#0969da">Tools:</tspan>       Tailwind, Git, VSCode</text>
+  <text x="20" y="194" class="text line" style="animation-delay: 1.05s"><tspan fill="#0969da">Focus:</tspan>       JavaScript &amp; React</text>
+  <text x="20" y="238" class="text line" style="animation-delay: 1.3499999999999999s"><tspan fill="#0969da">Contact</tspan></text>
+  <text x="20" y="260" class="text line" style="animation-delay: 1.5s">------------------------------------------------</text>
+  <text x="20" y="282" class="text line" style="animation-delay: 1.65s"><tspan fill="#0969da">GitHub:</tspan>     github.com/leonardolyrio</text>
+  <text x="20" y="304" class="text line" style="animation-delay: 1.7999999999999998s"><tspan fill="#0969da">LinkedIn:</tspan>   linkedin.com/in/leonardolyrio</text>
+  <text x="20" y="326" class="text line" style="animation-delay: 1.95s"><tspan fill="#0969da">Email:</tspan>      leonardolyrio.contato@gmail.com</text>
+  <text x="20" y="348" class="text line" style="animation-delay: 2.1s"><tspan fill="#0969da">Discord:</tspan>    lhziin</text>
+</svg>
