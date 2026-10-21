@@ -2,7 +2,7 @@ import sys
 
 def make_info_card(bg_color, text_color, highlight_color, output_path):
     width = 490
-    height = 500
+    height = 350
     line_height = 22
     font_size = 14
     
