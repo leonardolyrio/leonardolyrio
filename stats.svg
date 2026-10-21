@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" width="400" height="360">
+  <style>
+    .frame { fill: #ffffff; stroke: #d0d7de; }
+    .panel { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1; }
+    .title { font: 9px "SF Mono", Menlo, Consolas, "Courier New", monospace; fill: #57606a; }
+    .label { font: 10px "SF Mono", Menlo, Consolas, "Courier New", monospace; fill: #57606a; }
+    .sub, .unit, .month { font: 10px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #57606a; }
+    .value { font: 700 26px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .value .unit { font-weight: 400; }
+    .accent { fill: #1a7f37; }
+    .bar { fill: #2da44e; }
+    .bar.hi { fill: #1a7f37; }
+    .peak { font: 700 9px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .tile { opacity: 0; animation: fadeIn 0.6s ease-out forwards; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+    .bar { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: grow 0.8s ease-out forwards; }
+    @keyframes grow { to { transform: scaleY(1); } }
+    @media (prefers-color-scheme: dark) {
+      .frame { fill: #0d1117; stroke: #30363d; }
+      .panel { fill: #161b22; stroke: #30363d; }
+      .title, .label, .sub, .unit, .month { fill: #8b949e; }
+      .value, .peak { fill: #e6edf3; }
+      .accent { fill: #3fb950; }
+      .bar { fill: #2ea043; }
+      .bar.hi { fill: #56d364; }
+    }
+  </style>
+  <rect class="frame" x="0.5" y="0.5" width="399" height="359" rx="8" />
+  <circle cx="16" cy="14" r="4" fill="#ff5f56" />
+  <circle cx="29" cy="14" r="4" fill="#ffbd2e" />
+  <circle cx="42" cy="14" r="4" fill="#27c93f" />
+  <text class="title" x="200" y="17" text-anchor="middle">leonardolyrio@github: ~ $ ./stats.sh</text>
+  <g class="tile" style="animation-delay: 0.00s">
+    <rect class="panel" x="12" y="30" width="181" height="62" rx="6" />
+    <text class="label" x="22" y="46">$ current streak</text>
+    <text class="value accent" x="22" y="71">1<tspan class="unit" dx="5">day</tspan></text>
+    <text class="sub" x="22" y="86">Oct 21 – Oct 21</text>
+  </g>
+  <g class="tile" style="animation-delay: 0.12s">
+    <rect class="panel" x="207" y="30" width="181" height="62" rx="6" />
+    <text class="label" x="217" y="46">$ longest streak</text>
+    <text class="value" x="217" y="71">7<tspan class="unit" dx="5">days</tspan></text>
+    <text class="sub" x="217" y="86">Sep 21 – Sep 27</text>
+  </g>
+  <g class="tile" style="animation-delay: 0.24s">
+    <rect class="panel" x="12" y="98" width="181" height="62" rx="6" />
+    <text class="label" x="22" y="114">$ contributions</text>
+    <text class="value" x="22" y="139">—</text>
+    <text class="sub" x="22" y="154">in the last year</text>
+  </g>
+  <g class="tile" style="animation-delay: 0.36s">
+    <rect class="panel" x="207" y="98" width="181" height="62" rx="6" />
+    <text class="label" x="217" y="114">$ active days</text>
+    <text class="value" x="217" y="139">48<tspan class="unit" dx="5">/ 368</tspan></text>
+    <text class="sub" x="217" y="154">13% of the year</text>
+  </g>
+  <g class="tile" style="animation-delay: 0.48s">
+    <rect class="panel" x="12" y="166" width="181" height="62" rx="6" />
+    <text class="label" x="22" y="182">$ best day</text>
+    <text class="value" x="22" y="207">—</text>
+    <text class="sub" x="22" y="222">—</text>
+  </g>
+  <g class="tile" style="animation-delay: 0.60s">
+    <rect class="panel" x="207" y="166" width="181" height="62" rx="6" />
+    <text class="label" x="217" y="182">$ avg / active day</text>
+    <text class="value" x="217" y="207">—</text>
+    <text class="sub" x="217" y="222">contributions</text>
+  </g>
+  <g class="tile" style="animation-delay: 0.72s">
+    <rect class="panel" x="12" y="234" width="376" height="118" rx="6" />
+    <text class="label" x="22" y="250">$ contributions / month</text>
+  </g>
+  <text class="sub" x="200" y="304" text-anchor="middle">waiting for the first workflow run…</text>
+</svg>
