@@ -1,15 +1,16 @@
 import sys
 
 def make_info_card(bg_color, text_color, highlight_color, output_path):
-    width = 490
-    height = 350
+    # Card mais estreito (linhas de 42 caracteres) para o texto ficar maior no celular
+    width = 400
+    height = 356
     line_height = 22
     font_size = 14
     
     # Seus dados personalizados do GitHub
     lines = [
         f'<tspan fill="{highlight_color}">leonardolyrio</tspan>@<tspan fill="{highlight_color}">github</tspan>',
-        '------------------------------------------------',
+        '------------------------------------------',
         f'<tspan fill="{highlight_color}">Uptime:</tspan>     19 years',
         f'<tspan fill="{highlight_color}">Location:</tspan>   Espírito Santo, Brazil',
         f'<tspan fill="{highlight_color}">Languages:</tspan>  HTML, CSS, JS, React',
@@ -18,7 +19,7 @@ def make_info_card(bg_color, text_color, highlight_color, output_path):
         f'<tspan fill="{highlight_color}">Focus:</tspan>       JavaScript &amp; React',
         '',
         f'<tspan fill="{highlight_color}">Contact</tspan>',
-        '------------------------------------------------',
+        '------------------------------------------',
         f'<tspan fill="{highlight_color}">GitHub:</tspan>     github.com/leonardolyrio',
         f'<tspan fill="{highlight_color}">LinkedIn:</tspan>   linkedin.com/in/leonardolyrio',
         f'<tspan fill="{highlight_color}">Email:</tspan>      leonardolyrio.contato@gmail.com',
