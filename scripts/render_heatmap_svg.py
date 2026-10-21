@@ -3,6 +3,10 @@ import json
 BOX_SIZE = 10
 GAP = 4
 
+# Ajuste aqui a velocidade da animacao (em segundos)
+DURATION = 1.0   # duracao da animacao de cada quadradinho
+STAGGER = 0.05   # atraso entre quadradinhos vizinhos (efeito de onda)
+
 def render_heatmap():
     with open("data/contributions.json", "r", encoding="utf-8") as f:
         data = json.load(f)["days"]
@@ -24,7 +28,7 @@ def render_heatmap():
     svg = []
     svg.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="{width}" height="{height}">')
     svg.append('  <style>')
-    svg.append('    .box { opacity: 0; animation: fadeSlide 0.6s forwards; rx: 2; ry: 2; }')
+    svg.append(f'    .box {{ opacity: 0; animation: fadeSlide {DURATION}s ease-out forwards; rx: 2; ry: 2; }}')
     svg.append('    @keyframes fadeSlide { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }')
     
     # Cores Dinâmicas: Padrão (Modo Claro - igual ao original do GitHub)
@@ -42,7 +46,7 @@ def render_heatmap():
         for d_idx, day in enumerate(week):
             y = 10 + d_idx * (BOX_SIZE + GAP)
             level = min(day["level"], 4)
-            delay = (w_idx + d_idx) * 0.02
+            delay = (w_idx + d_idx) * STAGGER
             svg.append(f'  <rect class="box level-{level}" x="{x}" y="{y}" width="{BOX_SIZE}" height="{BOX_SIZE}" style="animation-delay: {delay:.2f}s" />')
 
     svg.append('</svg>')
