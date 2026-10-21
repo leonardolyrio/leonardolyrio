@@ -14,7 +14,7 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
   <img alt="ASCII Art Portrait" src="dark_mode.svg" width="370" />
 </picture>
-<img alt="GitHub streak and contribution stats, refreshed daily" src="./stats.svg" width="400" />
+<img alt="GitHub streak and contribution stats, refreshed daily" src="./stats.svg" width="377" />
 
 <br><br>
 
@@ -22,6 +22,6 @@
 
 **Frontend Developer · HTML · CSS · JavaScript · React · Tailwind**
 
-[GitHub](https://github.com/leonardolyrio) · [LinkedIn](https://linkedin.com/in/leonardolyrio) · [Email](mailto:leonardolyrio.contato@gmail.com) · Discord: `lhziin`
+[GitHub](https://github.com/leonardolyrio) · [LinkedIn](https://linkedin.com/in/leonardolyrio) · [Email](mailto:leonardolyrio.contato@gmail.com)
 
 </div>
