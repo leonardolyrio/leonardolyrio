@@ -22,6 +22,6 @@
 
 **Frontend Developer · HTML · CSS · JavaScript · React · Tailwind**
 
-[GitHub](https://github.com/leonardolyrio) · [LinkedIn](https://linkedin.com/in/leonardolyrio) · [Email](mailto:leonardolyrio.contato@gmail.com)
+[GitHub](https://github.com/leonardolyrio) · [LinkedIn](https://linkedin.com/in/leonardolyrio) · [Email](mailto:leonardolyrio.contato@gmail.com) · [Discord](https://discord.com/users/741416255486951478)
 
 </div>
