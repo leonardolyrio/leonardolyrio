@@ -33,8 +33,8 @@
   <g class="tile" style="animation-delay: 0.00s">
     <rect class="panel" x="12" y="30" width="181" height="62" rx="6" />
     <text class="label" x="22" y="46">$ current streak</text>
-    <text class="value accent" x="22" y="71">2<tspan class="unit" dx="5">days</tspan></text>
-    <text class="sub" x="22" y="86">Oct 21 – Oct 22</text>
+    <text class="value accent" x="22" y="71">3<tspan class="unit" dx="5">days</tspan></text>
+    <text class="sub" x="22" y="86">Oct 21 – Oct 23</text>
   </g>
   <g class="tile" style="animation-delay: 0.12s">
     <rect class="panel" x="207" y="30" width="181" height="62" rx="6" />
@@ -45,13 +45,13 @@
   <g class="tile" style="animation-delay: 0.24s">
     <rect class="panel" x="12" y="98" width="181" height="62" rx="6" />
     <text class="label" x="22" y="114">$ contributions</text>
-    <text class="value" x="22" y="139">166</text>
+    <text class="value" x="22" y="139">167</text>
     <text class="sub" x="22" y="154">in the last year</text>
   </g>
   <g class="tile" style="animation-delay: 0.36s">
     <rect class="panel" x="207" y="98" width="181" height="62" rx="6" />
     <text class="label" x="217" y="114">$ active days</text>
-    <text class="value" x="217" y="139">49<tspan class="unit" dx="5">/ 370</tspan></text>
+    <text class="value" x="217" y="139">50<tspan class="unit" dx="5">/ 371</tspan></text>
     <text class="sub" x="217" y="154">13% of the year</text>
   </g>
   <g class="tile" style="animation-delay: 0.48s">
@@ -63,7 +63,7 @@
   <g class="tile" style="animation-delay: 0.60s">
     <rect class="panel" x="207" y="166" width="181" height="62" rx="6" />
     <text class="label" x="217" y="182">$ avg / active day</text>
-    <text class="value" x="217" y="207">3.4</text>
+    <text class="value" x="217" y="207">3.3</text>
     <text class="sub" x="217" y="222">contributions</text>
   </g>
   <g class="tile" style="animation-delay: 0.72s">
