@@ -13,18 +13,18 @@
       .lbl { fill: #8b949e; } .cap { fill: #e6edf3; }
     }
   </style>
-  <text class="lbl" x="60" y="14">Nov</text>
-  <text class="lbl" x="130" y="14">Dec</text>
-  <text class="lbl" x="186" y="14">Jan</text>
-  <text class="lbl" x="242" y="14">Feb</text>
-  <text class="lbl" x="298" y="14">Mar</text>
-  <text class="lbl" x="368" y="14">Apr</text>
-  <text class="lbl" x="424" y="14">May</text>
-  <text class="lbl" x="494" y="14">Jun</text>
-  <text class="lbl" x="550" y="14">Jul</text>
-  <text class="lbl" x="606" y="14">Aug</text>
-  <text class="lbl" x="676" y="14">Sep</text>
-  <text class="lbl" x="732" y="14">Oct</text>
+  <text class="lbl" x="46" y="14">Nov</text>
+  <text class="lbl" x="116" y="14">Dec</text>
+  <text class="lbl" x="172" y="14">Jan</text>
+  <text class="lbl" x="228" y="14">Feb</text>
+  <text class="lbl" x="284" y="14">Mar</text>
+  <text class="lbl" x="354" y="14">Apr</text>
+  <text class="lbl" x="410" y="14">May</text>
+  <text class="lbl" x="480" y="14">Jun</text>
+  <text class="lbl" x="536" y="14">Jul</text>
+  <text class="lbl" x="592" y="14">Aug</text>
+  <text class="lbl" x="662" y="14">Sep</text>
+  <text class="lbl" x="718" y="14">Oct</text>
   <text class="lbl" x="2" y="45">Mon</text>
   <text class="lbl" x="2" y="73">Wed</text>
   <text class="lbl" x="2" y="101">Fri</text>
@@ -100,15 +100,15 @@
   <rect class="box level-0" x="158" y="106" width="10" height="10" style="animation-delay: 0.78s" />
   <rect class="box level-0" x="172" y="22" width="10" height="10" style="animation-delay: 0.63s" />
   <rect class="box level-0" x="172" y="36" width="10" height="10" style="animation-delay: 0.67s" />
-  <rect class="box level-0" x="172" y="50" width="10" height="10" style="animation-delay: 0.70s" />
-  <rect class="box level-0" x="172" y="64" width="10" height="10" style="animation-delay: 0.74s" />
+  <rect class="box on level-1" x="172" y="50" width="10" height="10" style="animation-delay: 0.70s" />
+  <rect class="box on level-1" x="172" y="64" width="10" height="10" style="animation-delay: 0.74s" />
   <rect class="box level-0" x="172" y="78" width="10" height="10" style="animation-delay: 0.77s" />
   <rect class="box level-0" x="172" y="92" width="10" height="10" style="animation-delay: 0.81s" />
   <rect class="box level-0" x="172" y="106" width="10" height="10" style="animation-delay: 0.84s" />
   <rect class="box level-0" x="186" y="22" width="10" height="10" style="animation-delay: 0.70s" />
   <rect class="box level-0" x="186" y="36" width="10" height="10" style="animation-delay: 0.73s" />
-  <rect class="box on level-1" x="186" y="50" width="10" height="10" style="animation-delay: 0.77s" />
-  <rect class="box on level-1" x="186" y="64" width="10" height="10" style="animation-delay: 0.80s" />
+  <rect class="box level-0" x="186" y="50" width="10" height="10" style="animation-delay: 0.77s" />
+  <rect class="box level-0" x="186" y="64" width="10" height="10" style="animation-delay: 0.80s" />
   <rect class="box level-0" x="186" y="78" width="10" height="10" style="animation-delay: 0.84s" />
   <rect class="box level-0" x="186" y="92" width="10" height="10" style="animation-delay: 0.87s" />
   <rect class="box level-0" x="186" y="106" width="10" height="10" style="animation-delay: 0.91s" />
@@ -167,14 +167,14 @@
   <rect class="box level-0" x="298" y="64" width="10" height="10" style="animation-delay: 1.31s" />
   <rect class="box level-0" x="298" y="78" width="10" height="10" style="animation-delay: 1.34s" />
   <rect class="box level-0" x="298" y="92" width="10" height="10" style="animation-delay: 1.38s" />
-  <rect class="box level-0" x="298" y="106" width="10" height="10" style="animation-delay: 1.41s" />
+  <rect class="box on level-1" x="298" y="106" width="10" height="10" style="animation-delay: 1.41s" />
   <rect class="box level-0" x="312" y="22" width="10" height="10" style="animation-delay: 1.27s" />
   <rect class="box level-0" x="312" y="36" width="10" height="10" style="animation-delay: 1.30s" />
   <rect class="box level-0" x="312" y="50" width="10" height="10" style="animation-delay: 1.34s" />
   <rect class="box level-0" x="312" y="64" width="10" height="10" style="animation-delay: 1.37s" />
   <rect class="box level-0" x="312" y="78" width="10" height="10" style="animation-delay: 1.41s" />
   <rect class="box level-0" x="312" y="92" width="10" height="10" style="animation-delay: 1.44s" />
-  <rect class="box on level-1" x="312" y="106" width="10" height="10" style="animation-delay: 1.47s" />
+  <rect class="box level-0" x="312" y="106" width="10" height="10" style="animation-delay: 1.47s" />
   <rect class="box level-0" x="326" y="22" width="10" height="10" style="animation-delay: 1.33s" />
   <rect class="box level-0" x="326" y="36" width="10" height="10" style="animation-delay: 1.36s" />
   <rect class="box level-0" x="326" y="50" width="10" height="10" style="animation-delay: 1.40s" />
@@ -182,14 +182,14 @@
   <rect class="box level-0" x="326" y="78" width="10" height="10" style="animation-delay: 1.47s" />
   <rect class="box level-0" x="326" y="92" width="10" height="10" style="animation-delay: 1.50s" />
   <rect class="box level-0" x="326" y="106" width="10" height="10" style="animation-delay: 1.54s" />
-  <rect class="box level-0" x="340" y="22" width="10" height="10" style="animation-delay: 1.39s" />
+  <rect class="box on level-1" x="340" y="22" width="10" height="10" style="animation-delay: 1.39s" />
   <rect class="box level-0" x="340" y="36" width="10" height="10" style="animation-delay: 1.43s" />
   <rect class="box level-0" x="340" y="50" width="10" height="10" style="animation-delay: 1.46s" />
   <rect class="box level-0" x="340" y="64" width="10" height="10" style="animation-delay: 1.50s" />
   <rect class="box level-0" x="340" y="78" width="10" height="10" style="animation-delay: 1.53s" />
   <rect class="box level-0" x="340" y="92" width="10" height="10" style="animation-delay: 1.57s" />
   <rect class="box level-0" x="340" y="106" width="10" height="10" style="animation-delay: 1.60s" />
-  <rect class="box on level-1" x="354" y="22" width="10" height="10" style="animation-delay: 1.46s" />
+  <rect class="box level-0" x="354" y="22" width="10" height="10" style="animation-delay: 1.46s" />
   <rect class="box level-0" x="354" y="36" width="10" height="10" style="animation-delay: 1.49s" />
   <rect class="box level-0" x="354" y="50" width="10" height="10" style="animation-delay: 1.53s" />
   <rect class="box level-0" x="354" y="64" width="10" height="10" style="animation-delay: 1.56s" />
@@ -200,31 +200,31 @@
   <rect class="box level-0" x="368" y="36" width="10" height="10" style="animation-delay: 1.55s" />
   <rect class="box level-0" x="368" y="50" width="10" height="10" style="animation-delay: 1.59s" />
   <rect class="box level-0" x="368" y="64" width="10" height="10" style="animation-delay: 1.62s" />
-  <rect class="box level-0" x="368" y="78" width="10" height="10" style="animation-delay: 1.66s" />
+  <rect class="box on level-1" x="368" y="78" width="10" height="10" style="animation-delay: 1.66s" />
   <rect class="box level-0" x="368" y="92" width="10" height="10" style="animation-delay: 1.69s" />
   <rect class="box level-0" x="368" y="106" width="10" height="10" style="animation-delay: 1.73s" />
   <rect class="box level-0" x="382" y="22" width="10" height="10" style="animation-delay: 1.58s" />
   <rect class="box level-0" x="382" y="36" width="10" height="10" style="animation-delay: 1.62s" />
   <rect class="box level-0" x="382" y="50" width="10" height="10" style="animation-delay: 1.65s" />
   <rect class="box level-0" x="382" y="64" width="10" height="10" style="animation-delay: 1.69s" />
-  <rect class="box on level-1" x="382" y="78" width="10" height="10" style="animation-delay: 1.72s" />
+  <rect class="box level-0" x="382" y="78" width="10" height="10" style="animation-delay: 1.72s" />
   <rect class="box level-0" x="382" y="92" width="10" height="10" style="animation-delay: 1.76s" />
-  <rect class="box level-0" x="382" y="106" width="10" height="10" style="animation-delay: 1.79s" />
+  <rect class="box on level-1" x="382" y="106" width="10" height="10" style="animation-delay: 1.79s" />
   <rect class="box level-0" x="396" y="22" width="10" height="10" style="animation-delay: 1.65s" />
   <rect class="box level-0" x="396" y="36" width="10" height="10" style="animation-delay: 1.68s" />
   <rect class="box level-0" x="396" y="50" width="10" height="10" style="animation-delay: 1.72s" />
   <rect class="box level-0" x="396" y="64" width="10" height="10" style="animation-delay: 1.75s" />
   <rect class="box level-0" x="396" y="78" width="10" height="10" style="animation-delay: 1.78s" />
   <rect class="box level-0" x="396" y="92" width="10" height="10" style="animation-delay: 1.82s" />
-  <rect class="box on level-1" x="396" y="106" width="10" height="10" style="animation-delay: 1.85s" />
-  <rect class="box level-0" x="410" y="22" width="10" height="10" style="animation-delay: 1.71s" />
+  <rect class="box level-0" x="396" y="106" width="10" height="10" style="animation-delay: 1.85s" />
+  <rect class="box on level-2" x="410" y="22" width="10" height="10" style="animation-delay: 1.71s" />
   <rect class="box level-0" x="410" y="36" width="10" height="10" style="animation-delay: 1.74s" />
   <rect class="box level-0" x="410" y="50" width="10" height="10" style="animation-delay: 1.78s" />
   <rect class="box level-0" x="410" y="64" width="10" height="10" style="animation-delay: 1.81s" />
   <rect class="box level-0" x="410" y="78" width="10" height="10" style="animation-delay: 1.85s" />
   <rect class="box level-0" x="410" y="92" width="10" height="10" style="animation-delay: 1.88s" />
   <rect class="box level-0" x="410" y="106" width="10" height="10" style="animation-delay: 1.92s" />
-  <rect class="box on level-2" x="424" y="22" width="10" height="10" style="animation-delay: 1.77s" />
+  <rect class="box level-0" x="424" y="22" width="10" height="10" style="animation-delay: 1.77s" />
   <rect class="box level-0" x="424" y="36" width="10" height="10" style="animation-delay: 1.81s" />
   <rect class="box level-0" x="424" y="50" width="10" height="10" style="animation-delay: 1.84s" />
   <rect class="box level-0" x="424" y="64" width="10" height="10" style="animation-delay: 1.88s" />
@@ -263,117 +263,117 @@
   <rect class="box level-0" x="494" y="36" width="10" height="10" style="animation-delay: 2.12s" />
   <rect class="box level-0" x="494" y="50" width="10" height="10" style="animation-delay: 2.16s" />
   <rect class="box level-0" x="494" y="64" width="10" height="10" style="animation-delay: 2.19s" />
-  <rect class="box level-0" x="494" y="78" width="10" height="10" style="animation-delay: 2.23s" />
+  <rect class="box on level-3" x="494" y="78" width="10" height="10" style="animation-delay: 2.23s" />
   <rect class="box level-0" x="494" y="92" width="10" height="10" style="animation-delay: 2.26s" />
   <rect class="box level-0" x="494" y="106" width="10" height="10" style="animation-delay: 2.30s" />
   <rect class="box level-0" x="508" y="22" width="10" height="10" style="animation-delay: 2.15s" />
-  <rect class="box level-0" x="508" y="36" width="10" height="10" style="animation-delay: 2.19s" />
-  <rect class="box level-0" x="508" y="50" width="10" height="10" style="animation-delay: 2.22s" />
-  <rect class="box level-0" x="508" y="64" width="10" height="10" style="animation-delay: 2.26s" />
-  <rect class="box on level-3" x="508" y="78" width="10" height="10" style="animation-delay: 2.29s" />
+  <rect class="box on level-2" x="508" y="36" width="10" height="10" style="animation-delay: 2.19s" />
+  <rect class="box on level-1" x="508" y="50" width="10" height="10" style="animation-delay: 2.22s" />
+  <rect class="box on level-1" x="508" y="64" width="10" height="10" style="animation-delay: 2.26s" />
+  <rect class="box on level-1" x="508" y="78" width="10" height="10" style="animation-delay: 2.29s" />
   <rect class="box level-0" x="508" y="92" width="10" height="10" style="animation-delay: 2.33s" />
   <rect class="box level-0" x="508" y="106" width="10" height="10" style="animation-delay: 2.36s" />
   <rect class="box level-0" x="522" y="22" width="10" height="10" style="animation-delay: 2.22s" />
-  <rect class="box on level-2" x="522" y="36" width="10" height="10" style="animation-delay: 2.25s" />
-  <rect class="box on level-1" x="522" y="50" width="10" height="10" style="animation-delay: 2.28s" />
-  <rect class="box on level-1" x="522" y="64" width="10" height="10" style="animation-delay: 2.32s" />
-  <rect class="box on level-1" x="522" y="78" width="10" height="10" style="animation-delay: 2.35s" />
+  <rect class="box level-0" x="522" y="36" width="10" height="10" style="animation-delay: 2.25s" />
+  <rect class="box level-0" x="522" y="50" width="10" height="10" style="animation-delay: 2.28s" />
+  <rect class="box level-0" x="522" y="64" width="10" height="10" style="animation-delay: 2.32s" />
+  <rect class="box level-0" x="522" y="78" width="10" height="10" style="animation-delay: 2.35s" />
   <rect class="box level-0" x="522" y="92" width="10" height="10" style="animation-delay: 2.39s" />
-  <rect class="box level-0" x="522" y="106" width="10" height="10" style="animation-delay: 2.42s" />
+  <rect class="box on level-1" x="522" y="106" width="10" height="10" style="animation-delay: 2.42s" />
   <rect class="box level-0" x="536" y="22" width="10" height="10" style="animation-delay: 2.28s" />
   <rect class="box level-0" x="536" y="36" width="10" height="10" style="animation-delay: 2.31s" />
   <rect class="box level-0" x="536" y="50" width="10" height="10" style="animation-delay: 2.35s" />
   <rect class="box level-0" x="536" y="64" width="10" height="10" style="animation-delay: 2.38s" />
   <rect class="box level-0" x="536" y="78" width="10" height="10" style="animation-delay: 2.42s" />
   <rect class="box level-0" x="536" y="92" width="10" height="10" style="animation-delay: 2.45s" />
-  <rect class="box on level-1" x="536" y="106" width="10" height="10" style="animation-delay: 2.49s" />
+  <rect class="box level-0" x="536" y="106" width="10" height="10" style="animation-delay: 2.49s" />
   <rect class="box level-0" x="550" y="22" width="10" height="10" style="animation-delay: 2.34s" />
   <rect class="box level-0" x="550" y="36" width="10" height="10" style="animation-delay: 2.38s" />
   <rect class="box level-0" x="550" y="50" width="10" height="10" style="animation-delay: 2.41s" />
   <rect class="box level-0" x="550" y="64" width="10" height="10" style="animation-delay: 2.45s" />
-  <rect class="box level-0" x="550" y="78" width="10" height="10" style="animation-delay: 2.48s" />
+  <rect class="box on level-2" x="550" y="78" width="10" height="10" style="animation-delay: 2.48s" />
   <rect class="box level-0" x="550" y="92" width="10" height="10" style="animation-delay: 2.52s" />
-  <rect class="box level-0" x="550" y="106" width="10" height="10" style="animation-delay: 2.55s" />
+  <rect class="box on level-1" x="550" y="106" width="10" height="10" style="animation-delay: 2.55s" />
   <rect class="box level-0" x="564" y="22" width="10" height="10" style="animation-delay: 2.41s" />
   <rect class="box level-0" x="564" y="36" width="10" height="10" style="animation-delay: 2.44s" />
-  <rect class="box level-0" x="564" y="50" width="10" height="10" style="animation-delay: 2.47s" />
+  <rect class="box on level-1" x="564" y="50" width="10" height="10" style="animation-delay: 2.47s" />
   <rect class="box level-0" x="564" y="64" width="10" height="10" style="animation-delay: 2.51s" />
-  <rect class="box on level-2" x="564" y="78" width="10" height="10" style="animation-delay: 2.54s" />
+  <rect class="box level-0" x="564" y="78" width="10" height="10" style="animation-delay: 2.54s" />
   <rect class="box level-0" x="564" y="92" width="10" height="10" style="animation-delay: 2.58s" />
-  <rect class="box on level-1" x="564" y="106" width="10" height="10" style="animation-delay: 2.61s" />
-  <rect class="box level-0" x="578" y="22" width="10" height="10" style="animation-delay: 2.47s" />
+  <rect class="box level-0" x="564" y="106" width="10" height="10" style="animation-delay: 2.61s" />
+  <rect class="box on level-1" x="578" y="22" width="10" height="10" style="animation-delay: 2.47s" />
   <rect class="box level-0" x="578" y="36" width="10" height="10" style="animation-delay: 2.50s" />
-  <rect class="box on level-1" x="578" y="50" width="10" height="10" style="animation-delay: 2.54s" />
+  <rect class="box level-0" x="578" y="50" width="10" height="10" style="animation-delay: 2.54s" />
   <rect class="box level-0" x="578" y="64" width="10" height="10" style="animation-delay: 2.57s" />
   <rect class="box level-0" x="578" y="78" width="10" height="10" style="animation-delay: 2.61s" />
   <rect class="box level-0" x="578" y="92" width="10" height="10" style="animation-delay: 2.64s" />
   <rect class="box level-0" x="578" y="106" width="10" height="10" style="animation-delay: 2.68s" />
-  <rect class="box on level-1" x="592" y="22" width="10" height="10" style="animation-delay: 2.53s" />
-  <rect class="box level-0" x="592" y="36" width="10" height="10" style="animation-delay: 2.57s" />
-  <rect class="box level-0" x="592" y="50" width="10" height="10" style="animation-delay: 2.60s" />
-  <rect class="box level-0" x="592" y="64" width="10" height="10" style="animation-delay: 2.64s" />
+  <rect class="box on level-2" x="592" y="22" width="10" height="10" style="animation-delay: 2.53s" />
+  <rect class="box on level-4" x="592" y="36" width="10" height="10" style="animation-delay: 2.57s" />
+  <rect class="box on level-1" x="592" y="50" width="10" height="10" style="animation-delay: 2.60s" />
+  <rect class="box on level-3" x="592" y="64" width="10" height="10" style="animation-delay: 2.64s" />
   <rect class="box level-0" x="592" y="78" width="10" height="10" style="animation-delay: 2.67s" />
   <rect class="box level-0" x="592" y="92" width="10" height="10" style="animation-delay: 2.71s" />
   <rect class="box level-0" x="592" y="106" width="10" height="10" style="animation-delay: 2.74s" />
-  <rect class="box on level-2" x="606" y="22" width="10" height="10" style="animation-delay: 2.59s" />
-  <rect class="box on level-4" x="606" y="36" width="10" height="10" style="animation-delay: 2.63s" />
-  <rect class="box on level-1" x="606" y="50" width="10" height="10" style="animation-delay: 2.66s" />
-  <rect class="box on level-3" x="606" y="64" width="10" height="10" style="animation-delay: 2.70s" />
-  <rect class="box level-0" x="606" y="78" width="10" height="10" style="animation-delay: 2.73s" />
-  <rect class="box level-0" x="606" y="92" width="10" height="10" style="animation-delay: 2.77s" />
+  <rect class="box level-0" x="606" y="22" width="10" height="10" style="animation-delay: 2.59s" />
+  <rect class="box level-0" x="606" y="36" width="10" height="10" style="animation-delay: 2.63s" />
+  <rect class="box level-0" x="606" y="50" width="10" height="10" style="animation-delay: 2.66s" />
+  <rect class="box level-0" x="606" y="64" width="10" height="10" style="animation-delay: 2.70s" />
+  <rect class="box on level-1" x="606" y="78" width="10" height="10" style="animation-delay: 2.73s" />
+  <rect class="box on level-1" x="606" y="92" width="10" height="10" style="animation-delay: 2.77s" />
   <rect class="box level-0" x="606" y="106" width="10" height="10" style="animation-delay: 2.80s" />
   <rect class="box level-0" x="620" y="22" width="10" height="10" style="animation-delay: 2.66s" />
   <rect class="box level-0" x="620" y="36" width="10" height="10" style="animation-delay: 2.69s" />
   <rect class="box level-0" x="620" y="50" width="10" height="10" style="animation-delay: 2.73s" />
   <rect class="box level-0" x="620" y="64" width="10" height="10" style="animation-delay: 2.76s" />
-  <rect class="box on level-1" x="620" y="78" width="10" height="10" style="animation-delay: 2.80s" />
-  <rect class="box on level-1" x="620" y="92" width="10" height="10" style="animation-delay: 2.83s" />
+  <rect class="box level-0" x="620" y="78" width="10" height="10" style="animation-delay: 2.80s" />
+  <rect class="box level-0" x="620" y="92" width="10" height="10" style="animation-delay: 2.83s" />
   <rect class="box level-0" x="620" y="106" width="10" height="10" style="animation-delay: 2.87s" />
-  <rect class="box level-0" x="634" y="22" width="10" height="10" style="animation-delay: 2.72s" />
+  <rect class="box on level-1" x="634" y="22" width="10" height="10" style="animation-delay: 2.72s" />
   <rect class="box level-0" x="634" y="36" width="10" height="10" style="animation-delay: 2.76s" />
-  <rect class="box level-0" x="634" y="50" width="10" height="10" style="animation-delay: 2.79s" />
-  <rect class="box level-0" x="634" y="64" width="10" height="10" style="animation-delay: 2.83s" />
-  <rect class="box level-0" x="634" y="78" width="10" height="10" style="animation-delay: 2.86s" />
+  <rect class="box on level-4" x="634" y="50" width="10" height="10" style="animation-delay: 2.79s" />
+  <rect class="box on level-1" x="634" y="64" width="10" height="10" style="animation-delay: 2.83s" />
+  <rect class="box on level-1" x="634" y="78" width="10" height="10" style="animation-delay: 2.86s" />
   <rect class="box level-0" x="634" y="92" width="10" height="10" style="animation-delay: 2.90s" />
   <rect class="box level-0" x="634" y="106" width="10" height="10" style="animation-delay: 2.93s" />
-  <rect class="box on level-1" x="648" y="22" width="10" height="10" style="animation-delay: 2.78s" />
-  <rect class="box level-0" x="648" y="36" width="10" height="10" style="animation-delay: 2.82s" />
-  <rect class="box on level-4" x="648" y="50" width="10" height="10" style="animation-delay: 2.85s" />
-  <rect class="box on level-1" x="648" y="64" width="10" height="10" style="animation-delay: 2.89s" />
-  <rect class="box on level-1" x="648" y="78" width="10" height="10" style="animation-delay: 2.92s" />
+  <rect class="box on level-4" x="648" y="22" width="10" height="10" style="animation-delay: 2.78s" />
+  <rect class="box on level-1" x="648" y="36" width="10" height="10" style="animation-delay: 2.82s" />
+  <rect class="box on level-2" x="648" y="50" width="10" height="10" style="animation-delay: 2.85s" />
+  <rect class="box level-0" x="648" y="64" width="10" height="10" style="animation-delay: 2.89s" />
+  <rect class="box level-0" x="648" y="78" width="10" height="10" style="animation-delay: 2.92s" />
   <rect class="box level-0" x="648" y="92" width="10" height="10" style="animation-delay: 2.96s" />
   <rect class="box level-0" x="648" y="106" width="10" height="10" style="animation-delay: 2.99s" />
-  <rect class="box on level-4" x="662" y="22" width="10" height="10" style="animation-delay: 2.85s" />
-  <rect class="box on level-1" x="662" y="36" width="10" height="10" style="animation-delay: 2.88s" />
-  <rect class="box on level-2" x="662" y="50" width="10" height="10" style="animation-delay: 2.92s" />
+  <rect class="box level-0" x="662" y="22" width="10" height="10" style="animation-delay: 2.85s" />
+  <rect class="box level-0" x="662" y="36" width="10" height="10" style="animation-delay: 2.88s" />
+  <rect class="box on level-1" x="662" y="50" width="10" height="10" style="animation-delay: 2.92s" />
   <rect class="box level-0" x="662" y="64" width="10" height="10" style="animation-delay: 2.95s" />
   <rect class="box level-0" x="662" y="78" width="10" height="10" style="animation-delay: 2.99s" />
-  <rect class="box level-0" x="662" y="92" width="10" height="10" style="animation-delay: 3.02s" />
+  <rect class="box on level-2" x="662" y="92" width="10" height="10" style="animation-delay: 3.02s" />
   <rect class="box level-0" x="662" y="106" width="10" height="10" style="animation-delay: 3.06s" />
   <rect class="box level-0" x="676" y="22" width="10" height="10" style="animation-delay: 2.91s" />
   <rect class="box level-0" x="676" y="36" width="10" height="10" style="animation-delay: 2.95s" />
-  <rect class="box on level-1" x="676" y="50" width="10" height="10" style="animation-delay: 2.98s" />
+  <rect class="box level-0" x="676" y="50" width="10" height="10" style="animation-delay: 2.98s" />
   <rect class="box level-0" x="676" y="64" width="10" height="10" style="animation-delay: 3.02s" />
-  <rect class="box level-0" x="676" y="78" width="10" height="10" style="animation-delay: 3.05s" />
+  <rect class="box on level-1" x="676" y="78" width="10" height="10" style="animation-delay: 3.05s" />
   <rect class="box on level-2" x="676" y="92" width="10" height="10" style="animation-delay: 3.09s" />
-  <rect class="box level-0" x="676" y="106" width="10" height="10" style="animation-delay: 3.12s" />
+  <rect class="box on level-1" x="676" y="106" width="10" height="10" style="animation-delay: 3.12s" />
   <rect class="box level-0" x="690" y="22" width="10" height="10" style="animation-delay: 2.97s" />
-  <rect class="box level-0" x="690" y="36" width="10" height="10" style="animation-delay: 3.01s" />
-  <rect class="box level-0" x="690" y="50" width="10" height="10" style="animation-delay: 3.04s" />
-  <rect class="box level-0" x="690" y="64" width="10" height="10" style="animation-delay: 3.08s" />
-  <rect class="box on level-1" x="690" y="78" width="10" height="10" style="animation-delay: 3.11s" />
-  <rect class="box on level-2" x="690" y="92" width="10" height="10" style="animation-delay: 3.15s" />
-  <rect class="box on level-1" x="690" y="106" width="10" height="10" style="animation-delay: 3.18s" />
-  <rect class="box level-0" x="704" y="22" width="10" height="10" style="animation-delay: 3.04s" />
-  <rect class="box on level-2" x="704" y="36" width="10" height="10" style="animation-delay: 3.07s" />
-  <rect class="box on level-2" x="704" y="50" width="10" height="10" style="animation-delay: 3.11s" />
-  <rect class="box on level-1" x="704" y="64" width="10" height="10" style="animation-delay: 3.14s" />
-  <rect class="box on level-2" x="704" y="78" width="10" height="10" style="animation-delay: 3.18s" />
-  <rect class="box on level-4" x="704" y="92" width="10" height="10" style="animation-delay: 3.21s" />
-  <rect class="box on level-2" x="704" y="106" width="10" height="10" style="animation-delay: 3.25s" />
-  <rect class="box on level-1" x="718" y="22" width="10" height="10" style="animation-delay: 3.10s" />
+  <rect class="box on level-2" x="690" y="36" width="10" height="10" style="animation-delay: 3.01s" />
+  <rect class="box on level-2" x="690" y="50" width="10" height="10" style="animation-delay: 3.04s" />
+  <rect class="box on level-1" x="690" y="64" width="10" height="10" style="animation-delay: 3.08s" />
+  <rect class="box on level-2" x="690" y="78" width="10" height="10" style="animation-delay: 3.11s" />
+  <rect class="box on level-4" x="690" y="92" width="10" height="10" style="animation-delay: 3.15s" />
+  <rect class="box on level-2" x="690" y="106" width="10" height="10" style="animation-delay: 3.18s" />
+  <rect class="box on level-1" x="704" y="22" width="10" height="10" style="animation-delay: 3.04s" />
+  <rect class="box level-0" x="704" y="36" width="10" height="10" style="animation-delay: 3.07s" />
+  <rect class="box on level-1" x="704" y="50" width="10" height="10" style="animation-delay: 3.11s" />
+  <rect class="box level-0" x="704" y="64" width="10" height="10" style="animation-delay: 3.14s" />
+  <rect class="box level-0" x="704" y="78" width="10" height="10" style="animation-delay: 3.18s" />
+  <rect class="box level-0" x="704" y="92" width="10" height="10" style="animation-delay: 3.21s" />
+  <rect class="box level-0" x="704" y="106" width="10" height="10" style="animation-delay: 3.25s" />
+  <rect class="box level-0" x="718" y="22" width="10" height="10" style="animation-delay: 3.10s" />
   <rect class="box level-0" x="718" y="36" width="10" height="10" style="animation-delay: 3.14s" />
-  <rect class="box on level-1" x="718" y="50" width="10" height="10" style="animation-delay: 3.17s" />
+  <rect class="box level-0" x="718" y="50" width="10" height="10" style="animation-delay: 3.17s" />
   <rect class="box level-0" x="718" y="64" width="10" height="10" style="animation-delay: 3.21s" />
   <rect class="box level-0" x="718" y="78" width="10" height="10" style="animation-delay: 3.24s" />
   <rect class="box level-0" x="718" y="92" width="10" height="10" style="animation-delay: 3.28s" />
@@ -381,23 +381,17 @@
   <rect class="box level-0" x="732" y="22" width="10" height="10" style="animation-delay: 3.16s" />
   <rect class="box level-0" x="732" y="36" width="10" height="10" style="animation-delay: 3.20s" />
   <rect class="box level-0" x="732" y="50" width="10" height="10" style="animation-delay: 3.23s" />
-  <rect class="box level-0" x="732" y="64" width="10" height="10" style="animation-delay: 3.27s" />
-  <rect class="box level-0" x="732" y="78" width="10" height="10" style="animation-delay: 3.30s" />
-  <rect class="box level-0" x="732" y="92" width="10" height="10" style="animation-delay: 3.34s" />
+  <rect class="box on level-2" x="732" y="64" width="10" height="10" style="animation-delay: 3.27s" />
+  <rect class="box on level-1" x="732" y="78" width="10" height="10" style="animation-delay: 3.30s" />
+  <rect class="box on level-1" x="732" y="92" width="10" height="10" style="animation-delay: 3.34s" />
   <rect class="box level-0" x="732" y="106" width="10" height="10" style="animation-delay: 3.37s" />
   <rect class="box level-0" x="746" y="22" width="10" height="10" style="animation-delay: 3.23s" />
-  <rect class="box level-0" x="746" y="36" width="10" height="10" style="animation-delay: 3.26s" />
+  <rect class="box on level-1" x="746" y="36" width="10" height="10" style="animation-delay: 3.26s" />
   <rect class="box level-0" x="746" y="50" width="10" height="10" style="animation-delay: 3.30s" />
-  <rect class="box on level-2" x="746" y="64" width="10" height="10" style="animation-delay: 3.33s" />
-  <rect class="box on level-1" x="746" y="78" width="10" height="10" style="animation-delay: 3.37s" />
+  <rect class="box on level-3" x="746" y="64" width="10" height="10" style="animation-delay: 3.33s" />
+  <rect class="box on level-2" x="746" y="78" width="10" height="10" style="animation-delay: 3.37s" />
   <rect class="box on level-1" x="746" y="92" width="10" height="10" style="animation-delay: 3.40s" />
-  <rect class="box level-0" x="746" y="106" width="10" height="10" style="animation-delay: 3.44s" />
+  <rect class="box on level-1" x="746" y="106" width="10" height="10" style="animation-delay: 3.44s" />
   <rect class="box level-0" x="760" y="22" width="10" height="10" style="animation-delay: 3.29s" />
-  <rect class="box on level-1" x="760" y="36" width="10" height="10" style="animation-delay: 3.33s" />
-  <rect class="box level-0" x="760" y="50" width="10" height="10" style="animation-delay: 3.36s" />
-  <rect class="box on level-3" x="760" y="64" width="10" height="10" style="animation-delay: 3.40s" />
-  <rect class="box on level-2" x="760" y="78" width="10" height="10" style="animation-delay: 3.43s" />
-  <rect class="box on level-1" x="760" y="92" width="10" height="10" style="animation-delay: 3.47s" />
-  <rect class="box level-0" x="760" y="106" width="10" height="10" style="animation-delay: 3.50s" />
-  <text class="cap" x="32" y="138">167 contributions in the last year</text>
+  <text class="cap" x="32" y="138">168 contributions in the last year</text>
 </svg>
