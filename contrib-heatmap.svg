@@ -392,6 +392,7 @@
   <rect class="box on level-2" x="746" y="78" width="10" height="10" style="animation-delay: 3.37s" />
   <rect class="box on level-1" x="746" y="92" width="10" height="10" style="animation-delay: 3.40s" />
   <rect class="box on level-1" x="746" y="106" width="10" height="10" style="animation-delay: 3.44s" />
-  <rect class="box level-0" x="760" y="22" width="10" height="10" style="animation-delay: 3.29s" />
-  <text class="cap" x="32" y="138">168 contributions in the last year</text>
+  <rect class="box on level-1" x="760" y="22" width="10" height="10" style="animation-delay: 3.29s" />
+  <rect class="box level-0" x="760" y="36" width="10" height="10" style="animation-delay: 3.33s" />
+  <text class="cap" x="32" y="138">169 contributions in the last year</text>
 </svg>
