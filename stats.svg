@@ -33,25 +33,25 @@
   <g class="tile" style="animation-delay: 0.00s">
     <rect class="panel" x="12" y="30" width="181" height="62" rx="6" />
     <text class="label" x="22" y="46">$ current streak</text>
-    <text class="value accent" x="22" y="71">7<tspan class="unit" dx="5">days</tspan></text>
-    <text class="sub" x="22" y="86">Oct 21 – Oct 27</text>
+    <text class="value accent" x="22" y="71">8<tspan class="unit" dx="5">days</tspan></text>
+    <text class="sub" x="22" y="86">Oct 21 – Oct 28</text>
   </g>
   <g class="tile" style="animation-delay: 0.12s">
     <rect class="panel" x="207" y="30" width="181" height="62" rx="6" />
     <text class="label" x="217" y="46">$ longest streak</text>
-    <text class="value" x="217" y="71">7<tspan class="unit" dx="5">days</tspan></text>
-    <text class="sub" x="217" y="86">Oct 21 – Oct 27</text>
+    <text class="value" x="217" y="71">8<tspan class="unit" dx="5">days</tspan></text>
+    <text class="sub" x="217" y="86">Oct 21 – Oct 28</text>
   </g>
   <g class="tile" style="animation-delay: 0.24s">
     <rect class="panel" x="12" y="98" width="181" height="62" rx="6" />
     <text class="label" x="22" y="114">$ contributions</text>
-    <text class="value" x="22" y="139">193</text>
+    <text class="value" x="22" y="139">194</text>
     <text class="sub" x="22" y="154">in the last year</text>
   </g>
   <g class="tile" style="animation-delay: 0.36s">
     <rect class="panel" x="207" y="98" width="181" height="62" rx="6" />
     <text class="label" x="217" y="114">$ active days</text>
-    <text class="value" x="217" y="139">45<tspan class="unit" dx="5">/ 368</tspan></text>
+    <text class="value" x="217" y="139">46<tspan class="unit" dx="5">/ 369</tspan></text>
     <text class="sub" x="217" y="154">12% of the year</text>
   </g>
   <g class="tile" style="animation-delay: 0.48s">
@@ -63,7 +63,7 @@
   <g class="tile" style="animation-delay: 0.60s">
     <rect class="panel" x="207" y="166" width="181" height="62" rx="6" />
     <text class="label" x="217" y="182">$ avg / active day</text>
-    <text class="value" x="217" y="207">4.3</text>
+    <text class="value" x="217" y="207">4.2</text>
     <text class="sub" x="217" y="222">contributions</text>
   </g>
   <g class="tile" style="animation-delay: 0.72s">
@@ -90,11 +90,11 @@
   <text class="month" x="254.8" y="346" text-anchor="middle">J</text>
   <rect class="bar" x="273.7" y="327" width="17" height="7" rx="2" style="animation-delay: 1.35s" />
   <text class="month" x="282.2" y="346" text-anchor="middle">J</text>
-  <rect class="bar" x="301.0" y="274" width="17" height="60" rx="2" style="animation-delay: 1.40s" />
+  <rect class="bar" x="301.0" y="275" width="17" height="59" rx="2" style="animation-delay: 1.40s" />
   <text class="month" x="309.5" y="346" text-anchor="middle">A</text>
-  <rect class="bar" x="328.4" y="305" width="17" height="29" rx="2" style="animation-delay: 1.45s" />
+  <rect class="bar" x="328.4" y="306" width="17" height="28" rx="2" style="animation-delay: 1.45s" />
   <text class="month" x="336.9" y="346" text-anchor="middle">S</text>
   <rect class="bar hi" x="355.8" y="272" width="17" height="62" rx="2" style="animation-delay: 1.50s" />
-  <text class="peak" x="364.3" y="268" text-anchor="middle">67</text>
+  <text class="peak" x="364.3" y="268" text-anchor="middle">68</text>
   <text class="month" x="364.3" y="346" text-anchor="middle">O</text>
 </svg>
