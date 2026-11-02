@@ -33,26 +33,26 @@
   <g class="tile" style="animation-delay: 0.00s">
     <rect class="panel" x="12" y="30" width="181" height="62" rx="6" />
     <text class="label" x="22" y="46">$ current streak</text>
-    <text class="value accent" x="22" y="71">11<tspan class="unit" dx="5">days</tspan></text>
-    <text class="sub" x="22" y="86">Oct 21 – Oct 31</text>
+    <text class="value accent" x="22" y="71">12<tspan class="unit" dx="5">days</tspan></text>
+    <text class="sub" x="22" y="86">Oct 21 – Nov 1</text>
   </g>
   <g class="tile" style="animation-delay: 0.12s">
     <rect class="panel" x="207" y="30" width="181" height="62" rx="6" />
     <text class="label" x="217" y="46">$ longest streak</text>
-    <text class="value" x="217" y="71">11<tspan class="unit" dx="5">days</tspan></text>
-    <text class="sub" x="217" y="86">Oct 21 – Oct 31</text>
+    <text class="value" x="217" y="71">12<tspan class="unit" dx="5">days</tspan></text>
+    <text class="sub" x="217" y="86">Oct 21 – Nov 1</text>
   </g>
   <g class="tile" style="animation-delay: 0.24s">
     <rect class="panel" x="12" y="98" width="181" height="62" rx="6" />
     <text class="label" x="22" y="114">$ contributions</text>
-    <text class="value" x="22" y="139">197</text>
+    <text class="value" x="22" y="139">198</text>
     <text class="sub" x="22" y="154">in the last year</text>
   </g>
   <g class="tile" style="animation-delay: 0.36s">
     <rect class="panel" x="207" y="98" width="181" height="62" rx="6" />
     <text class="label" x="217" y="114">$ active days</text>
-    <text class="value" x="217" y="139">49<tspan class="unit" dx="5">/ 365</tspan></text>
-    <text class="sub" x="217" y="154">13% of the year</text>
+    <text class="value" x="217" y="139">50<tspan class="unit" dx="5">/ 366</tspan></text>
+    <text class="sub" x="217" y="154">14% of the year</text>
   </g>
   <g class="tile" style="animation-delay: 0.48s">
     <rect class="panel" x="12" y="166" width="181" height="62" rx="6" />
@@ -95,6 +95,6 @@
   <rect class="bar hi" x="328.4" y="272" width="17" height="62" rx="2" style="animation-delay: 1.45s" />
   <text class="peak" x="336.9" y="268" text-anchor="middle">71</text>
   <text class="month" x="336.9" y="346" text-anchor="middle">O</text>
-  <rect class="bar" x="355.8" y="333" width="17" height="1" rx="2" style="animation-delay: 1.50s" />
+  <rect class="bar" x="355.8" y="332" width="17" height="2" rx="2" style="animation-delay: 1.50s" />
   <text class="month" x="364.3" y="346" text-anchor="middle">N</text>
 </svg>
