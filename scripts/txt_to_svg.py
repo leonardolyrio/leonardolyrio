@@ -18,7 +18,7 @@ def txt_to_svg(txt_path="ascii_art.txt"):
     svg_h = int(height * line_height)
 
     row_count = len(lines)
-    duration = 3.0
+    duration = 1.5  # tempo total da animacao do retrato (segundos)
     row_delay = duration / max(row_count, 1)
 
     def generate_single_svg(bg_color, text_color, output_path):

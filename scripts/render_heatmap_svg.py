@@ -4,7 +4,7 @@ from datetime import date
 # Animacao: os quadradinhos "brotam" (crescem com um pequeno pulo) numa onda da
 # esquerda para a direita, e os que tem atividade acendem num flash de brilho.
 # Ajuste aqui a velocidade (em segundos)
-REVEAL = 3.5        # tempo ate o ultimo quadradinho comecar a aparecer
+REVEAL = 2.2        # tempo ate o ultimo quadradinho comecar a aparecer
 DURATION = 0.6      # duracao da animacao de cada quadradinho
 ROW_WEIGHT = 0.55   # quanto cada linha atrasa em relacao a uma coluna (efeito diagonal)
 
@@ -54,7 +54,7 @@ def render_heatmap(weeks, box, gap, output, caption):
     svg.append(f'    .box {{ rx: 2; ry: 2; transform-box: fill-box; transform-origin: center; opacity: 0; animation: pop {DURATION}s ease-out both; }}')
     svg.append(f'    .box.on {{ animation: pop {DURATION}s ease-out both, flash {DURATION + 0.15:.2f}s ease-out both; }}')
     svg.append('    @keyframes pop { 0% { opacity: 0; transform: scale(0.2); } 60% { opacity: 1; transform: scale(1.1); } 100% { opacity: 1; transform: scale(1); } }')
-    svg.append('    @keyframes flash { 0% { filter: brightness(2.2); } 45% { filter: brightness(2.2); } 100% { filter: brightness(1); } }')
+    svg.append('    @keyframes flash { 0%, 45% { fill: #b4ffaa; } }')
     svg.append('    @media (prefers-reduced-motion: reduce) { .box { opacity: 1 !important; animation: none !important; } }')
     svg.append('    .lbl { font: 10px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #57606a; }')
     svg.append('    .cap { font: 700 11px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }')
