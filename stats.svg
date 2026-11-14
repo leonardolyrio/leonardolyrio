@@ -51,7 +51,7 @@
   <g class="tile" style="animation-delay: 0.36s">
     <rect class="panel" x="207" y="98" width="181" height="62" rx="6" />
     <text class="label" x="217" y="114">$ active days</text>
-    <text class="value" x="217" y="139">60<tspan class="unit" dx="5">/ 370</tspan></text>
+    <text class="value" x="217" y="139">60<tspan class="unit" dx="5">/ 371</tspan></text>
     <text class="sub" x="217" y="154">16% of the year</text>
   </g>
   <g class="tile" style="animation-delay: 0.48s">
