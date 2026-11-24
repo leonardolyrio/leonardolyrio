@@ -199,5 +199,6 @@
   <rect class="box level-0" x="392" y="112" width="12" height="12" style="animation-delay: 2.12s" />
   <rect class="box level-0" x="407" y="22" width="12" height="12" style="animation-delay: 1.94s" />
   <rect class="box level-0" x="407" y="37" width="12" height="12" style="animation-delay: 1.99s" />
+  <rect class="box level-0" x="407" y="52" width="12" height="12" style="animation-delay: 2.03s" />
   <text class="cap" x="32" y="145">198 contributions in the last 26 weeks</text>
 </svg>
